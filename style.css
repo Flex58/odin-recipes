@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(42, 49, 73);
+    color: rgb(224, 224, 224);
+}
+
+ul,
+li,
+ol{
+    background-color: rgb(85, 84, 110);
+    font-style: oblique;
+}
+
+h2,
+h3{
+    text-decoration-line: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
