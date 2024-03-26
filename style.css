@@ -10,7 +10,6 @@ li,
 button{
     font-style: oblique;
     font-size: large;
-    font-weight: bold;
     background-color:#49111C;
     width: 400px;
     height: auto;
@@ -23,6 +22,7 @@ button{
 button{
     text-align: center;
     display: block;
+    font-weight: bold;
 }
 img{
     border: 5px double #A9927D;
